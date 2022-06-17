@@ -1,6 +1,6 @@
 NAME : single.784.tour
 COMMENT : Length = 784
-COMMENT : Found by LKH [Keld Helsgaun] Fri Jun 17 02:19:12 2022
+COMMENT : Found by LKH [Keld Helsgaun] Fri Jun 17 02:50:46 2022
 TYPE : TOUR
 DIMENSION : 6
 TOUR_SECTION
