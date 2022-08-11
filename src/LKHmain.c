@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     /* Read the specification of the problem */
     // if (argc >= 2)
     //     ParameterFileName = argv[1];
-    ParameterFileName = "/home/ahmad/personal_ws/src/lkh_tsp_solver/resource/single.par";
+    ParameterFileName = "/home/ahmad/catkin_ws/src/lkh_tsp_solver/resource/single.par";
     ReadParameters();
     MaxMatrixDimension = 20000;
     MergeWithTour = Recombination == IPT ? MergeWithTourIPT : MergeWithTourGPX2;

@@ -6,13 +6,13 @@ more information is given. Default: 1.
 `TRACE_LEVEL = 100`
 
 Specifies the name of the problem file
-`PROBLEM_FILE = /home/ahmad/personal_ws/src/lkh_tsp_solver/resource/pr2392.tsp`
+`PROBLEM_FILE = /home/ahmad/catkin_ws/src/lkh_tsp_solver/resource/pr2392.tsp`
 
 The input tour file
-`INPUT_TOUR_FILE = /home/ahmad/personal_ws/src/lkh_tsp_solver/resource/pr2392.txt`
+`INPUT_TOUR_FILE = /home/ahmad/catkin_ws/src/lkh_tsp_solver/resource/pr2392.txt`
 
 Specifies the name of a file to which the best tour is to be written.
-`TOUR_FILE = /home/ahmad/personal_ws/src/lkh_tsp_solver/resource/pr2392.txt`
+`TOUR_FILE = /home/ahmad/catkin_ws/src/lkh_tsp_solver/resource/pr2392.txt`
 
 Specifies the name of a file to which penalties (π-values determined by the ascent)
 is to be written. If the file already exits, the penalties are read from the file, and the

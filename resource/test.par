@@ -1,0 +1,8 @@
+PROBLEM_FILE = /home/ahmad/catkin_ws/src/lkh_tsp_solver/resource/test.tsp
+OUTPUT_TOUR_FILE = /home/ahmad/catkin_ws/src/lkh_tsp_solver/resource/test.txt
+TRACE_LEVEL = 2
+RUNS = 10
+SEED = 1
+MOVE_TYPE = 5
+MAX_TRIALS = 7
+GAIN23 = NO

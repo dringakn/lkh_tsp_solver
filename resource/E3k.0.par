@@ -1,4 +1,4 @@
-PROBLEM_FILE = /home/ahmad/personal_ws/src/lkh_tsp_solver/resource/E3k.0.tsp
+PROBLEM_FILE = /home/ahmad/catkin_ws/src/lkh_tsp_solver/resource/E3k.0.tsp
 OPTIMUM = 40634081	
 INITIAL_PERIOD = 1000
 MAX_CANDIDATES = 4

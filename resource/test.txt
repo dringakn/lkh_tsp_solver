@@ -1,0 +1,15 @@
+NAME : test.58219.tour
+COMMENT : Length = 58219
+COMMENT : Found by LKH [Keld Helsgaun] Tue Jul  5 09:30:42 2022
+TYPE : TOUR
+DIMENSION : 7
+TOUR_SECTION
+1
+2
+6
+7
+5
+3
+4
+-1
+EOF
